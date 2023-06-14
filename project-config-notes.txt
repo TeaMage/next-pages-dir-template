@@ -1,0 +1,3 @@
+- use commit mssg linting: enforce prefixes https://www.youtube.com/watch?v=Iu5aZDqZt8E&t=2300s&ab_channel=AlexEagleson -->git hooks
+- debugging settings for vscode https://www.youtube.com/watch?v=Iu5aZDqZt8E&t=2300s&ab_channel=AlexEagleson --> Vscode config
+- add import reordering then sorting like in flutter https://medium.com/weekly-webtips/how-to-sort-imports-like-a-pro-in-typescript-4ee8afd7258a
